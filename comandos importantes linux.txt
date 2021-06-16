@@ -1,0 +1,54 @@
+cd -> change directory
+cd.. -> voltar a trás
+ls -la-> listagem contuedos
+pwd -> mostra o caminho atual
+mkdir-> cria directorio
+rmdir-> apaga diretorio vazio
+rm -rf -> apaga diretorio e contuedo
+pwd -> saber onde estou
+ln ->hardlink
+ln -s -> soft link
+rm -> remover um ficheiro
+rm -f nomedoficheiro -> remove tipo com autorização
+
+
+localizar cenas:
+grep "nome que queremos procurar" -> procura num texto a palavra
+grep -R 'foo' . – Search all files in the current directory and in all of its subdirectories in Linux for the word ‘foo’
+find -> procurar um ficheiro
+find /home/ -type f -size 1M -> procura um ficheiro com o tamanho de 1mb
+find . -type d ou entao find /home -print-> apresenta todos os diretorios e subdiretorios
+locate
+
+Utilizadores:
+sudo -> aplica o comando com privilegios de admin
+addusser- adicionar utilizador
+Umask -> determina as permissoes padrao para novos ficheiros ou diretorias criando uma mascara
+su nomedoutilizador -> para iniciar sessão no outro utilizador
+
+ls -l "nomedoficheiro" -> lista de permições
+
+touch test.text -> criar ficheiro vazio c/nome teste.txt
+nano teste.txt -> arbir o editor para editar o fiecheito texte.txt
+
+permições:
+R-4 READ
+W-2 WRITE
+X-1 EXECUTE
+
+chmod 700 /home/user <- faz com apenas o admin tenha acesso, 
+o primeiro é o admin(o que está na posição 7),o segundo é o grupo(o que está com permissão como 0) e o ultimo (com permissão 0) é os outros
+
+SSH = Serviço que permite o acesso remoto seguro
+	Permite a incriptação dos dados/é uma alterantiva segura ao telnet
+
+-------------------------------------------------------------------------------------
+PACOTE LAMP -> CONFIGURAÇÃO DO LINUX COMO UM SERVIDOR WEB
+**
+Instalação dos Serviços:
+APACHE -> Serviço para alogamento e resposta as solicitações web
+
+MySQL -> Sistema gestor de base de dados -> para criação e gestao das bases de dados de suporte aos websites:
+
+PHP -> Linguagem de Programação de scripting executada do lado do serviços
+

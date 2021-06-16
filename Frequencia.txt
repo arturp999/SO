@@ -1,0 +1,20 @@
+
+Frequencia sabado dia 24 janeiro das 09:30 às 11.30 sala 18
+
+- Sistemas operativos e a sua utilidade
+- Caracteristicas gerais de um SO
+- Criterios de seleção de um SO
+- Shell/Kernel
+- Principais Comandos Linux
+(find,man,pwd,ls,cd,mkdir,rmdir,rm,touch,cp,nano,chown,groupadd,adduser,passwd,chmod,ln)
+- Links e tipos de links (hardlink e softlink e como criar)
+- Dispositivos orientados ao bloco/caracter
+- Permissoes de ficheiros e diretórios
+- Shell Script -> Análise de 1 sccuript
+
+
+Preciso fazer relatio sobre o comando escolhido 
+Artur José Gomes Pereira //2040415
+Jõao José da Costa Cabral //2020919
+
+miltonaguiar@staff.uma.pt

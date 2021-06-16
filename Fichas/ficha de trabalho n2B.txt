@@ -1,0 +1,7 @@
+FICHA TRABALHO 2B
+
+/bin -> Têm os comandos que se pode utilizar
+/boot -> têm todos os ficheiros necessários para fazer boot
+/usr/bin -> contêm os ficheiros executáveis do windows que não são necessarios para fazer boot ou reparar o sistema
+/sbin é onde estam os executaveis dos programas de ferramentas administrativas do admin
+/tmp-ficheiros temporarios

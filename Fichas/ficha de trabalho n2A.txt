@@ -1,0 +1,20 @@
+ficha de trabalho nº2A
+touch ola -> cria um ficheiro com nome ola
+rm ola-> remove o fichero que tem o nome ola
+touch list1.txt -> cria um ficheiro de texto com o nome list1
+ls ../ ->o comando faz entrar em um diretorio
+mkdir um/dois -p -> cria um diretorio com o nome um e dentro dessa pasta cria a pasta dois
+crtl+1 -> não faz nada
+
+cp ori.txt nomenome.txt-> copia o ficheiro ori para outro com outro nome
+mv ori.txt iro.txt -> alterou o nome que tinha no ficheiro por iro.txt/muda o nome do ficheiro
+su root ->su root switches to the user named root and doesn't simulate directly logging in.
+cat list1.txt -> le o que está dentro do ficheiro e transcreve o que está escrito no terminal
+ls -la|more -> lista todos os ficheiros no pc ?
+ls -lh -> mostra o tamanho total que temos ocupado no pc
+ping 10.0.0.4 -> indica os packets transmitidos
+
+IP:10.0.2.15
+netmask:255.255.255.0
+broadcast:10.0.2.255
+mac:08:00:27:b3:80:94
